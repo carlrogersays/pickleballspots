@@ -1,0 +1,2 @@
+# pickleballspots
+Deploys on Vercel
